@@ -31,6 +31,12 @@ MUSCLE 2 – The Multiscale Coupling Library and Environment – is a portable f
 | ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
 | MUSCLE2          | The coupling toolkit       | https://github.com/psnc-apps/muscle2/tree/compat | https://github.com/psnc-apps/muscle2/tree/compat |
 
+## Patterns software
+The Patterns software maps submodels to the required architecture to abstract this complexity from user. It generates/submit middleware files required.
+
+| Component        | Description                | Webpage                                         | Repository  |
+| ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
+| PatternDrivenPlans | Maps submodels to architecture | https://github.com/compat-project/PatternDrivenPlans | https://github.com/compat-project/PatternDrivenPlans |
 
 ## AMUSE
 AMUSE – The Astrophysical MUltipurpose Software Environment – a software framework that provides a homogeneous interface to a wide variety of packages, which enables the research of astrophysical phenomena where complex interactions occur between different physical domains. The framework can be used for astrophysical simulations, in which existing codes from different domains, such as stellar dynamics, stellar evolution, hydrodynamics and radiative transfer can be easily coupled
