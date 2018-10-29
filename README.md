@@ -6,6 +6,9 @@ You can find more information about ComPat at http://www.compat-project.eu.
 
 ## FabSim
 FabSim is a Python-based automation toolkit for scientific simulation and data processing workflows, licensed under the BSD 3-clause license. It aims to enable users to perform remote tasks from a local command-line, and to run applications while curating the environment variables and the input and output data in a systematic manner. To provide that curation, FabSim uses a basic data transfer functionalities such as rsync and ssh.
+| Component        | Description                | Webpage                                         | Repository  |
+| ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
+| FabSim           | The automation toolkit     | https://github.com/UCL-CCS/FabSim | https://github.com/UCL-CCS/FabSim |
 
 ## QCG – Quality in Cloud and Grid
 The QCG middleware (previously known as QosCosGrid) is an integrated system offering advanced job and resource management capabilities to deliver to end-users supercomputer-like performance and structure. By connecting many distributed computing resources together, QCG offers highly efficient mapping, execution and monitoring capabilities for variety of applications, such as parameter sweep, workflows, MPI or hybrid MPI-OpenMP. Thanks to QCG, large-scale applications, multi-scale or complex computing models written in Fortran, C, C++ or Java can be automatically distributed over a network of computing resources with guaranteed QoS. The middleware provides also a set of unique features, such as advance reservation and co-allocation of distributed computing resources.
