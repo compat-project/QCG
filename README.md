@@ -6,6 +6,7 @@ You can find more information about ComPat at http://www.compat-project.eu.
 
 ## FabSim
 FabSim is a Python-based automation toolkit for scientific simulation and data processing workflows, licensed under the BSD 3-clause license. It aims to enable users to perform remote tasks from a local command-line, and to run applications while curating the environment variables and the input and output data in a systematic manner. To provide that curation, FabSim uses a basic data transfer functionalities such as rsync and ssh.
+
 | Component        | Description                | Webpage                                         | Repository  |
 | ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
 | FabSim           | The automation toolkit     | https://github.com/UCL-CCS/FabSim | https://github.com/UCL-CCS/FabSim |
