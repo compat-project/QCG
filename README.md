@@ -49,4 +49,4 @@ Provides custom metric plugins for Arm Forge Professional, Arm Performance Repor
 ## AMUSE
 AMUSE – The Astrophysical MUltipurpose Software Environment – a software framework that provides a homogeneous interface to a wide variety of packages, which enables the research of astrophysical phenomena where complex interactions occur between different physical domains. The framework can be used for astrophysical simulations, in which existing codes from different domains, such as stellar dynamics, stellar evolution, hydrodynamics and radiative transfer can be easily coupled
 
-<img src="/resources/AmuseLogo.png?raw=true" width="200">
+<img src="/resources/AmuseLogo.png?raw=true" width="100">
