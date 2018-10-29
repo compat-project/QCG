@@ -14,7 +14,7 @@ FabSim is a Python-based automation toolkit for scientific simulation and data p
 ## QCG – Quality in Cloud and Grid 
 The QCG middleware (previously known as QosCosGrid) is an integrated system offering advanced job and resource management capabilities to deliver to end-users supercomputer-like performance and structure. By connecting many distributed computing resources together, QCG offers highly efficient mapping, execution and monitoring capabilities for variety of applications, such as parameter sweep, workflows, MPI or hybrid MPI-OpenMP. Thanks to QCG, large-scale applications, multi-scale or complex computing models written in Fortran, C, C++ or Java can be automatically distributed over a network of computing resources with guaranteed QoS. The middleware provides also a set of unique features, such as advance reservation and co-allocation of distributed computing resources.
 
-<img src="/qcg-wb.png?raw=true" width="200">
+<img src="/resources/qcg-wb.png?raw=true" width="200">
 
 | Component        | Description                | Webpage                                         | Repository  |
 | ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
@@ -48,3 +48,5 @@ Provides custom metric plugins for Arm Forge Professional, Arm Performance Repor
 
 ## AMUSE
 AMUSE – The Astrophysical MUltipurpose Software Environment – a software framework that provides a homogeneous interface to a wide variety of packages, which enables the research of astrophysical phenomena where complex interactions occur between different physical domains. The framework can be used for astrophysical simulations, in which existing codes from different domains, such as stellar dynamics, stellar evolution, hydrodynamics and radiative transfer can be easily coupled
+
+<img src="/resources/AmuseLogo.png?raw=true" width="200">
