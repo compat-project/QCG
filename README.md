@@ -38,5 +38,13 @@ The Patterns software maps submodels to the required architecture to abstract th
 | ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
 | PatternDrivenPlans | Maps submodels to architecture | https://github.com/compat-project/PatternDrivenPlans | https://github.com/compat-project/PatternDrivenPlans |
 
+## Custom metric plugins
+
+Provides custom metric plugins for Arm Forge Professional, Arm Performance Reports and other compatible software.
+
+| Component        | Description                | Webpage                                         | Repository  |
+| ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
+| Custom metric plugins | Custom metric plugins | https://github.com/compat-project/custom-metrics | https://github.com/compat-project/custom-metricss |
+
 ## AMUSE
 AMUSE – The Astrophysical MUltipurpose Software Environment – a software framework that provides a homogeneous interface to a wide variety of packages, which enables the research of astrophysical phenomena where complex interactions occur between different physical domains. The framework can be used for astrophysical simulations, in which existing codes from different domains, such as stellar dynamics, stellar evolution, hydrodynamics and radiative transfer can be easily coupled
