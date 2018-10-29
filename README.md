@@ -9,6 +9,7 @@ FabSim is a Python-based automation toolkit for scientific simulation and data p
 
 ## QCG – Quality in Cloud and Grid
 The QCG middleware (previously known as QosCosGrid) is an integrated system offering advanced job and resource management capabilities to deliver to end-users supercomputer-like performance and structure. By connecting many distributed computing resources together, QCG offers highly efficient mapping, execution and monitoring capabilities for variety of applications, such as parameter sweep, workflows, MPI or hybrid MPI-OpenMP. Thanks to QCG, large-scale applications, multi-scale or complex computing models written in Fortran, C, C++ or Java can be automatically distributed over a network of computing resources with guaranteed QoS. The middleware provides also a set of unique features, such as advance reservation and co-allocation of distributed computing resources.
+
 <img src="/qcg-wb.png?raw=true" width="300">
 
 | Component        | Description                | Webpage                                         | Repository  |
