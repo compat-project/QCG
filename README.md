@@ -23,5 +23,10 @@ The QCG middleware (previously known as QosCosGrid) is an integrated system offe
 ## MUSCLE 2
 MUSCLE 2 – The Multiscale Coupling Library and Environment – is a portable framework to do multiscale modeling and simulation on distributed computing resources. The generic coupling mechanism of MUSCLE is suitable for many types of multiscale applications, notably for multiscale models as defined by the MAPPER project. Submodels can be implemented from scratch, but legacy code can also be used with only minor adjustments. The runtime environment solves common problems in distributed computing and couples submodels of a multiscale model, whether they are built for high-performance supercomputers or for local execution. MUSCLE supports Java, C, C++, Fortran, Python, MATLAB and Scala code, using MPI, OpenMP, or threads.
 
+| Component        | Description                | Webpage                                         | Repository  |
+| ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
+| MUSCLE2          | The coupling toolkit       | https://github.com/psnc-apps/muscle2/tree/compat | https://github.com/psnc-apps/muscle2/tree/compat |
+
+
 ## AMUSE
 AMUSE – The Astrophysical MUltipurpose Software Environment – a software framework that provides a homogeneous interface to a wide variety of packages, which enables the research of astrophysical phenomena where complex interactions occur between different physical domains. The framework can be used for astrophysical simulations, in which existing codes from different domains, such as stellar dynamics, stellar evolution, hydrodynamics and radiative transfer can be easily coupled
