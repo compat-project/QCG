@@ -44,9 +44,17 @@ Provides custom metric plugins for Arm Forge Professional, Arm Performance Repor
 
 | Component        | Description                | Webpage                                         | Repository  |
 | ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
-| Custom metric plugins | Custom metric plugins | https://github.com/compat-project/custom-metrics | https://github.com/compat-project/custom-metricss |
+| Custom metric plugins | Custom metric plugins | https://github.com/compat-project/custom-metrics | https://github.com/compat-project/custom-metrics |
 
 ## AMUSE
 AMUSE – The Astrophysical MUltipurpose Software Environment – a software framework that provides a homogeneous interface to a wide variety of packages, which enables the research of astrophysical phenomena where complex interactions occur between different physical domains. The framework can be used for astrophysical simulations, in which existing codes from different domains, such as stellar dynamics, stellar evolution, hydrodynamics and radiative transfer can be easily coupled
 
 <img src="/resources/AmuseLogo.png?raw=true" width="100">
+
+## ECOS - Energy Consumption Optimization Service
+
+The ECOS program reads values from performance counters every fixed period of time. Based on these values it decides whether to increase or decrease the frequency of the processor. The program controls independently the frequencies for each hardware thread in the system (according to the division nomenclature: processor -> core -> hardware thread). In the case of a decision to change the frequency, it is changed by 100MHz, so the change between the maximum and minimum frequency of the processor usually takes several program cycles (one cycle is understood as the operation of reading meters for each thread, the decision to change the frequency and its potential execution). Frequency change is forced by writing the new maximum frequency for the hardware thread and it is specified in the file /sys/devices/system/cpu/cpu/cpu/cpufreq/scaling_max_freq, this method is compatible with cpufreq and intel-pstate.
+
+| Component        | Description                | Webpage                                         | Repository  |
+| ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
+| ECOS             | Energy Consumption Optimization Service | https://github.com/compat-project/ECOS | https://github.com/compat-project/ECOS |
