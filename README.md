@@ -18,11 +18,11 @@ The QCG middleware (previously known as QosCosGrid) is an integrated system offe
 
 | Component        | Description                | Webpage                                         | Repository  |
 | ---------------- | -------------------------- | ----------------------------------------------- | ----------- |
-| QCG-Broker       | The brokering service      | http://www.qoscosgrid.org/trac/qcg-broker       | http://www.qoscosgrid.org/qcg-packages/centos7-compat/ |
-| QCG-Computing    | The computing service      | http://www.qoscosgrid.org/trac/qcg-computing    | http://www.qoscosgrid.org/qcg-packages/centos7-compat/ |
-| QCG-Notification | The notification subsystem | http://www.qoscosgrid.org/trac/qcg-notification | http://www.qoscosgrid.org/qcg-packages/centos7-compat/ |
+| QCG-Broker       | The brokering service      | http://www.qoscosgrid.org/trac/qcg-broker       | http://repository.qcg.psnc.pl/compat/ |
+| QCG-Computing    | The computing service      | http://www.qoscosgrid.org/trac/qcg-computing    | http://repository.qcg.psnc.pl/compat/ |
+| QCG-Notification | The notification subsystem | http://www.qoscosgrid.org/trac/qcg-notification | http://repository.qcg.psnc.pl/compat/ |
 | QCG-PilotJob     | Pilot Job service          | https://github.com/compat-project/QCG-PilotJob  | https://github.com/compat-project/QCG-PilotJob |
-| QCG-Client       | Client tool for QCG-Broker | http://www.qoscosgrid.org/trac/qcg-broker/wiki/client_user_guide | http://www.qoscosgrid.org/qcg-packages/centos7-compat/ |
+| QCG-Client       | Client tool for QCG-Broker | http://www.qoscosgrid.org/trac/qcg-broker/wiki/client_user_guide | http://repository.qcg.psnc.pl/compat/ |
 
 ## MUSCLE 2
 MUSCLE 2 – The Multiscale Coupling Library and Environment – is a portable framework to do multiscale modeling and simulation on distributed computing resources. The generic coupling mechanism of MUSCLE is suitable for many types of multiscale applications, notably for multiscale models as defined by the MAPPER project. Submodels can be implemented from scratch, but legacy code can also be used with only minor adjustments. The runtime environment solves common problems in distributed computing and couples submodels of a multiscale model, whether they are built for high-performance supercomputers or for local execution. MUSCLE supports Java, C, C++, Fortran, Python, MATLAB and Scala code, using MPI, OpenMP, or threads.
